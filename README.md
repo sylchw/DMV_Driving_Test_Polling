@@ -7,3 +7,5 @@ Polls your local DMV till a date under your set filter appears. Prompts you to b
 3. Launch notebook on Jupyter and follow instructions. Configure your details and location.
 4. Wait for the CAPTCHA and do it manually.
 5. Exploit the bug that the authentication token never expires and let it ping.
+6. To receive automated emails, you'll have to enable "less secure app access" option in your gmail account.
+7. To get a pop up window, you have to run the jupyter notebook on a Windows OS.
